@@ -1,0 +1,12 @@
+a.out
+Desktop
+Documents
+Downloads
+examples.desktop
+lt
+Music
+myDir
+Pictures
+Public
+Templates
+Videos
